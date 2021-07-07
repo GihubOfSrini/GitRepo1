@@ -1,0 +1,16 @@
+
+907310317 GT
+
+4GB DMS Certified Memory 204 Pin 
+DDR3-1066 PC3-8500 512x64 CL7 1.5V SODIMM
+OEM #: A2884835, SNPY995DC/4G
+
+Standard Memory:	3000 MB (1 x 1 GB + 1 x 2 GB)
+
+Device name	Srinivas-DESK
+Processor	Intel(R) Core(TM) i3 CPU       M 350  @ 2.27GHz   2.27 GHz
+Installed RAM	3.00 GB
+Device ID	AF292C8D-0FB7-4E56-A6A9-A0A26EE035A7
+Product ID	00331-20210-00000-AA042
+System type	64-bit operating system, x64-based processor
+Pen and touch	No pen or touch input is available for this display
